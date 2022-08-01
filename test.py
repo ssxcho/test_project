@@ -10,5 +10,5 @@ def hamar():
     if len(a) == 9 and c == "091":
         print("esi armenteli hamara")
     if  len(a) == 9 and c == "096":
-        print("esi ucomi hamara")
+        print("esi team hamara")
 hamar()
